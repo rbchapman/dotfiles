@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chapman.riley@gmail.com
+	name = Riley Chapman
